@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lukar\Desktop\Socket Programming\server\main.cpp(60,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server.vcxproj -> C:\Users\lukar\Desktop\Socket Programming\server\x64\Debug\server.exe
